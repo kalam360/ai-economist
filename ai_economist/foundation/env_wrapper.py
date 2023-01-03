@@ -98,6 +98,7 @@ class FoundationEnvWrapper:
         env_obj=None,
         env_name=None,
         env_config=None,
+        blocks_per_env=None,
         num_envs=1,
         use_cuda=False,
         env_registrar=None,
